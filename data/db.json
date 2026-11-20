@@ -1,0 +1,52 @@
+{
+  "users": [
+    {
+      "_id": "b753d23d-5162-46bd-b741-80f233980228",
+      "createdAt": "2026-10-30T17:09:33.579Z",
+      "name": "Alex Chen",
+      "email": "alex.chen@university.edu",
+      "passwordHash": "$2b$10$Zrchx6C.blNdgTBhv4u93.sHenyK1WyDRaDxegZ2fNIm8HTkEDru.",
+      "college": "Stanford University",
+      "degree": "B.S.",
+      "branch": "Computer Science",
+      "graduationYear": "2025",
+      "roleInterest": "Full Stack Software Engineer",
+      "targetCompanies": [
+        "Google",
+        "Stripe",
+        "Linear",
+        "Vercel"
+      ],
+      "bio": "Final year CS student passionate about distributed systems, React interfaces, and scalable backends."
+    }
+  ],
+  "resumes": [],
+  "interviews": [
+    {
+      "_id": "2b1d5af0-8f3b-432e-8ae8-ad71b2e32986",
+      "createdAt": "2026-10-30T17:09:50.357Z",
+      "userId": "b753d23d-5162-46bd-b741-80f233980228",
+      "jobRole": "Full Stack Software Engineer",
+      "company": "Google",
+      "interviewType": "Technical Interview",
+      "difficulty": "Intermediate",
+      "status": "in_progress",
+      "currentQuestionIndex": 0,
+      "totalQuestionsCount": 3,
+      "questions": [
+        {
+          "id": "q-1",
+          "order": 1,
+          "questionText": "Hello! Welcome to your Full Stack Software Engineer interview at Google. To get started, could you please give me a brief introduction highlighting your background, core technical strengths, and what drives your passion in this field?",
+          "category": "introduction",
+          "contextSnippet": "Assessing communication, elevator pitch, and self-awareness.",
+          "groundingSources": []
+        }
+      ],
+      "durationSeconds": 0
+    }
+  ],
+  "practice_tests": [],
+  "learning_recommendations": [],
+  "seedDone": false
+}

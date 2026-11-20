@@ -1,0 +1,6 @@
+{
+  "name": "INTERVIEWIQ – AI Powered Smart Interview System",
+  "description": "Practice smarter, speak confidently, and get interview-ready with an AI-powered smart interview system featuring real-time AI questioning, resume analysis, posture feedback, and detailed performance reports.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
